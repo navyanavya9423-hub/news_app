@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 30,
+  "articles": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Regina Garcia Cano",
+      "title": "US Energy Secretary Chris Wright visits Venezuela to assess oil industry overhaul - AP News",
+      "description": "U.S. Energy Secretary Chris Wright is visiting Venezuela to assess the country's oil industry as the Trump administration eases sanctions and pushes a major overhaul. Wright arrived in Caracas on Wednesday and was meeting with acting President Delcy Rodríguez…",
+      "url": "https://apnews.com/article/venezuela-oil-trump-wright-visit-rodriguez-b06f79d4d95ad69759d648c7b1b86dbf",
+      "urlToImage": "https://dims.apnews.com/dims4/default/62c9280/2147483647/strip/true/crop/4307x2870+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2Ffb%2Fc3fa000da081b5f9d7c344c52f26%2F0d631ce7c2e044bca36a30d64d96e6cf",
+      "publishedAt": "2026-02-12T03:12:00Z",
+      "content": "CARACAS, Venezuela (AP) United States Energy Secretary Chris Wright arrived Wednesday in Venezuela for a firsthand assessment of the countrys oil industry, a visit that further asserts the U.S. gover… [+4533 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Kate Santaliz",
+      "title": "House Republicans defy Trump on trade - Axios",
+      "description": "The vote signals growing GOP discomfort with Trump's aggressive tariff strategy.",
+      "url": "https://www.axios.com/2026/02/11/canada-tarriffs-trump-house-vote-overturn",
+      "urlToImage": "https://images.axios.com/VMgY1c2ejO0Lc727PoxcxJXfh1I=/0x0:6773x3810/1366x768/2026/02/11/1770823899552.jpeg",
+      "publishedAt": "2026-02-12T03:07:40Z",
+      "content": "\u003Cul\u003E\u003Cli\u003EReps. Thomas Massie (R-Ky.), Don Bacon (R-Neb.), Kevin Kiley (R-Calif.), Dan Newhouse (R-Wash.), Jeff Hurd (R-Colo.) and Brian Fitzpatrick (R-Pa.) voted to terminate Trump's use of a national… [+1872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Victor Jack",
+      "title": "NATO deploys to Greenland to keep Trump onside - politico.eu",
+      "description": "The alliance’s Arctic Sentry is mostly a rebranding exercise aimed at appeasing the U.S. president — in response to a largely exaggerated threat.",
+      "url": "https://www.politico.eu/article/nato-launches-symbolic-arctic-sentry-mission-to-placate-us-donald-trump-on-greenland/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/02/11/GettyImages-2257815569-scaled.jpg",
+      "publishedAt": "2026-02-12T03:00:00Z",
+      "content": "But in practice, the threat hasn't changed since the Cold War, said Friis, the professor. \r\nThe U.S. can easily upgrade its early-warning missile radar system in Greenland, he argued, while melting i… [+1350 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "ESPN",
+      "title": "Cavaliers 138-113 Wizards (Feb 11, 2026) Game Recap - ESPN",
+      "description": null,
+      "url": "https://www.espn.com/nba/recap?gameId\\\\u003d401810631",
+      "urlToImage": null,
+      "publishedAt": "2026-02-12T02:38:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Perry Stein, Jeremy Roebuck",
+      "title": "Pam Bondi lashes out as lawmakers press her on Epstein, cases against Trump foes - The Washington Post",
+      "description": "The attorney general lobbed insults when lawmakers questioned her decisions and portrayed the Justice Department as unfairly maligned by Democrats and Trump critics.",
+      "url": "https://www.washingtonpost.com/national-security/2026/02/11/bondi-house-hearing-epstein-crime/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PXSWII6GBPOUW63OBHZIH7XYRA_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-02-12T02:01:52Z",
+      "content": "Attorney General Pam Bondi combatively defended her leadership at the Justice Department to House lawmakers on Wednesday amid sharp criticism that she botched the release of the Epstein files and has… [+127 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Donald Judd",
+      "title": "Governors association says all members now invited to White House meeting as Trump defends exclusion of Moore and Polis - CNN",
+      "description": "The National Governors Association said Wednesday that a traditionally bipartisan meeting at the White House next week is back on after invitations were extended to all of its members, even as President Donald Trump continued to rage against two of the nation…",
+      "url": "https://www.cnn.com/2026/02/11/politics/white-house-governors-trump-stitt-moore-polis",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-11t214641z-276032874-rc2xjjakrffn-rtrmadp-3-usa-trump.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-02-12T01:41:00Z",
+      "content": "The National Governors Association said Wednesday that a traditionally bipartisan meeting at the White House next week is back on after invitations were extended to all of its members, even as Presid… [+3332 chars]"
+    }
+  ]
+}
