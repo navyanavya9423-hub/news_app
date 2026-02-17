@@ -2,7 +2,9 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://navyanavya9423-hub.github.io/news_app",
+  "homepage": "https://navyanavya9423-hub.github.io/News_app",
+
+
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
